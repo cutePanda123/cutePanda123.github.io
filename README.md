@@ -1,6 +1,8 @@
 # Welcome to the wedding site of Wenqi and Longhan
 ![](/assets/images/photo_together.png)
 
+<br/>
+
 ## Schedule
 * 10:00 am: Arrive at the Pier (801 Alaskan Way Pier 52
 Seattle, WA 98104), buy the ferry ticket and wait for boarding. Once you board and park, quickly join us in the cafeteria area.
@@ -12,5 +14,8 @@ Seattle, WA 98104), buy the ferry ticket and wait for boarding. Once you board a
 
 We will create a Wechat group to provide more details.
 
+<br/>
+
 ## If you'd like to fund our honeymoon
-![](/assets/images/venmo.png)
+
+<img alt="Light" src="./assets/images/venmo.png" width="45%" height=180>&nbsp; &nbsp; &nbsp; &nbsp;<img alt="Dark" src="./assets/images/wechat.png" width="45%" height=180>
