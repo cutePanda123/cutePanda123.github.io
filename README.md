@@ -18,7 +18,7 @@ We will create a Wechat group to provide more details.
 
 ## If you'd like to fund our honeymoon
 
-<img alt="Dark" src="./assets/images/paypal_payment.png" width="80%" height=300>
+<img alt="Dark" src="./assets/images/paypal_payment.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="Light" src="./assets/images/venmo_payment.png" width="80%" height=300>
+<img alt="Light" src="./assets/images/venmo_payment.png">
 
