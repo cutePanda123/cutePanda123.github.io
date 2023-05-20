@@ -18,4 +18,4 @@ We will create a Wechat group to provide more details.
 
 ## If you'd like to fund our honeymoon
 
-<img alt="Light" src="./assets/images/venmo.png" width="45%" height=180>&nbsp; &nbsp; &nbsp; &nbsp;<img alt="Dark" src="./assets/images/wechat.png" width="45%" height=180>
+<img alt="Light" src="./assets/images/venmo.png" width="45%" height=300>&nbsp; &nbsp; &nbsp; &nbsp;<img alt="Dark" src="./assets/images/wechat.png" width="45%" height=300>
