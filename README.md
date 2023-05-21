@@ -9,7 +9,7 @@ Seattle, WA 98104), buy the ferry ticket and wait for boarding. Once you board a
 * 10:40 am: Ferry Departure. Ceremony starts.
 * 11:05 am: Ceremony concludes. Guests walk back to the cars and wait to unboard.
 * 11:15 am: Ferry arrives at Bainbridge. Drive to the wedding party at Ba Sa Restaurant (101 Winslow Way E, Bainbridge Island, WA 98110)
-* 11:45 am - 2:00 pm Wedding party.
+* 11:45 am - 2:00 pm Wedding party. We will have raffle and games.
 * 2:00 pm Wedding concludes.
 
 We will create a Wechat group to provide more details.
@@ -21,4 +21,5 @@ We will create a Wechat group to provide more details.
 <img alt="Dark" src="./assets/images/paypal_payment.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img alt="Light" src="./assets/images/venmo_payment.png">
+
 
