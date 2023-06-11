@@ -18,11 +18,13 @@ We will create a Wechat group to provide more details.
 
 ## If you'd like to fund our honeymoon
 
-paypal: paypal.me/peterfamilypay
-&nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;
+PayPal:
+&nbsp; &nbsp;
+[paypal.me/peterfamilypay](paypal.me/peterfamilypay/) 
+&nbsp; &nbsp;
+&nbsp; &nbsp;
 
-venmo:
+Venmo:
 &nbsp; &nbsp;
 
 <img alt="Light" src="./assets/images/venmo_payment.png">
