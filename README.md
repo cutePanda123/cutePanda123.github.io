@@ -23,6 +23,8 @@ paypal: paypal.me/peterfamilypay
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 venmo:
+&nbsp; &nbsp;
+
 <img alt="Light" src="./assets/images/venmo_payment.png">
 
 
