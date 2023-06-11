@@ -20,7 +20,8 @@ We will create a Wechat group to provide more details.
 
 PayPal:
 &nbsp; &nbsp;
-[paypal.me/peterfamilypay](paypal.me/peterfamilypay/) 
+
+[paypal.me/peterfamilypay](http://paypal.me/peterfamilypay/) 
 &nbsp; &nbsp;
 &nbsp; &nbsp;
 
